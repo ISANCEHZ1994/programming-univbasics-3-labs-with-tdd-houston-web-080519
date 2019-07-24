@@ -3,8 +3,6 @@
 
 first_number = 
 second_number = 
-product = first_number + second_number
-
-end
+sum = first_number + second_number
 
 
